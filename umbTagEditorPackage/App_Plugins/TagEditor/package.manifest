@@ -1,0 +1,16 @@
+﻿{
+  "propertyEditors": [
+    {
+      "alias": "TagEditor",
+      "name": "Tag-Editor",
+      "group": "Site Point",
+      "editor": {
+        "view": "~/App_Plugins/TagEditor/TagEditor.html",
+        "valueType": "TEXT"
+      }
+    }
+  ],
+  "javascript": [
+    "~/App_Plugins/TagEditor/TagEditor.controller.js"
+  ]
+}
